@@ -6,7 +6,7 @@
            review="https://codeup.aliyun.com" />
   <remote  name="github"
            fetch="https://github.com"
-           revision="main"
+           revision="master"
            review="" />
   <remote  name="gitlab"
            fetch="https://gitlab.com"
@@ -14,7 +14,7 @@
            review="" />
   <remote  name="rabbit"
            fetch="https://github.com/realRabbita/"
-           revision="master"
+           revision="main"
            review="" />
   <default remote="origin"
            revision="master"
@@ -28,10 +28,10 @@
   <project name="jiangxin/multi-log" path="lib/multi-log" groups="lib" remote="github" />
   <project name="jiangxin/multi-log" path="lib/multi-log" groups="lib" remote="github" /> -->
 
-  <project name="algs4" path="alg4" groups="github" remote="rabbit" />
-  <project name="everywhere" path="everywhere" groups="rabbit" remote="rabbit" />
-  <project name="manifest" path="manifest" groups="rabbit,manifest" remote="rabbit" />
-  <project name="bustub" path="bustub" groups="github" remote="rabbit" />
+  <project name="algs4" path="alg4" groups="github" remote="rabbit" revision="main" />
+  <project name="everywhere" path="everywhere" groups="rabbit" remote="rabbit" revision="main" />
+  <project name="manifest" path="manifest" groups="rabbit,manifest" remote="rabbit" revision="main" />
+  <project name="bustub" path="bustub" groups="github" remote="rabbit" revision="main" />
 
   <project name="gitlab-org/gitaly" path="gitaly" groups="gitlab,notdefault" remote="gitlab" />
   <project name="gitlab-org/gitlab-workhorse" path="gitlab-workhorse" groups="gitlab,notdefault" remote="gitlab" />
