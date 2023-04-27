@@ -6,7 +6,7 @@
            review="https://codeup.aliyun.com" />
   <remote  name="github"
            fetch="https://github.com"
-           revision="master"
+           revision="main"
            review="" />
   <remote  name="gitlab"
            fetch="https://gitlab.com"
