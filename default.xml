@@ -34,7 +34,7 @@
   <project name="bustub" path="bustub" groups="github" remote="rabbit" revision="master" />
 
   <project name="gitlab-org/gitaly" path="gitaly" revision="master" groups="gitlab,notdefault" remote="gitlab" />
-  <project name="gitlab-org/gitlab-workhorse" path="gitlab-workhorse" revision="main" groups="gitlab,notdefault" remote="gitlab" />
-  <project name="gitlab-org/gitlab-exporter" path="gitlab-exporter" groups="gitlab,notdefault" remote="gitlab" />
+  <project name="gitlab-org/gitlab-workhorse" path="gitlab-workhorse" revision="master" groups="gitlab,notdefault" remote="gitlab" />
+  <project name="gitlab-org/gitlab-exporter" path="gitlab-exporter" revision="main" groups="gitlab,notdefault" remote="gitlab" />
   <project name="gitlab-org/gitlab-shell" path="gitlab-shell" revision="main" groups="gitlab,notdefault" remote="gitlab" />
 </manifest>
