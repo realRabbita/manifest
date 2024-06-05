@@ -1,2 +1,2 @@
 # manifest
-Test google repo &amp; git-repo-to, etc.
+Test google repo &amp; git-repo, etc.
